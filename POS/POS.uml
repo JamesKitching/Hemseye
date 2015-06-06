@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_HgMTQAwWEeWxdfpiI2a0hQ" name="Model">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_HgMTQQwWEeWxdfpiI2a0hQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_OkZ84AwWEeWxdfpiI2a0hQ" name="Sentence"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_RrCWoAwWEeWxdfpiI2a0hQ" name="Noun"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_SvTQAAwWEeWxdfpiI2a0hQ" name="Verb"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_VhSPcAwWEeWxdfpiI2a0hQ" name="Word"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_ZYWnoAwWEeWxdfpiI2a0hQ" name="Adjective"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_b49jMAwWEeWxdfpiI2a0hQ" name="Subject"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_c9hiEAwXEeWxdfpiI2a0hQ" name="Paragraph"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_iRXaQAwXEeWxdfpiI2a0hQ" name="Document"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_ldpwEAwXEeWxdfpiI2a0hQ" name="Section"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_I9r6EAwYEeWxdfpiI2a0hQ" name="Object"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_dUgCMAwYEeWxdfpiI2a0hQ" name="Preposition"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_gCst0AwYEeWxdfpiI2a0hQ" name="Determiner"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_jMBPMAwYEeWxdfpiI2a0hQ" name="Pronoun"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_nNTTUAwYEeWxdfpiI2a0hQ" name="Conjunctions"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_rg0W8AwYEeWxdfpiI2a0hQ" name="Auxiliary Verb"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_1yQKgAwYEeWxdfpiI2a0hQ" name="Particle"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_430NQAwYEeWxdfpiI2a0hQ" name="Numeral"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_AXuUYAwZEeWxdfpiI2a0hQ" name="Adverb"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_I8mfgAwZEeWxdfpiI2a0hQ" name="Directional Adverb"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_OUoUIAwZEeWxdfpiI2a0hQ" name="Locative Adverb"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_cZ93IAwZEeWxdfpiI2a0hQ" name="Degree Adverb"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_gztekAwZEeWxdfpiI2a0hQ" name="Manner Averb"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_lFjHMAwZEeWxdfpiI2a0hQ" name="Temporal Adverb"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_h3bTcAwbEeWxdfpiI2a0hQ" name="Tense"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_m1l2kAwbEeWxdfpiI2a0hQ" name="Phrasal Verb"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_1kZNUAwbEeWxdfpiI2a0hQ" name="Definition"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_5SmkcAwbEeWxdfpiI2a0hQ" name="Noun Phrase"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_gdyKgAwcEeWxdfpiI2a0hQ" name="Context"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_wGvcYAwcEeWxdfpiI2a0hQ" name="Heading"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_zPeH4AwcEeWxdfpiI2a0hQ" name="Sub Heading"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_65yIMAwcEeWxdfpiI2a0hQ" name="List Of Point"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_8TshcAwcEeWxdfpiI2a0hQ" name="Point"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_ERxLQAwdEeWxdfpiI2a0hQ" name="Domain"/>
+</uml:Model>
